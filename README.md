@@ -9,11 +9,9 @@
 學號:106306006
  
 ## week 1
-1.create a github account and download github desktop 
-
-2.install RStudio
-
-3.learn how to use R markdown ([Rmarkdown website](https://rmarkdown.rstudio.com/))
+1. create a github account and download github desktop 
+2. install RStudio
+3. learn how to use R markdown ([Rmarkdown website](https://rmarkdown.rstudio.com/))
 
 
 
