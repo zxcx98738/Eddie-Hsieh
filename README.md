@@ -10,7 +10,11 @@
  
 ## week 1
 create a github account and download github desktop 
+
 install RStudio
-learn how to use R markdown
+
+learn how to use R markdown  [Rmarkdown website](https://rmarkdown.rstudio.com/)
+
+
 
  
