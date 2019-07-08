@@ -13,9 +13,7 @@
 
 2.install RStudio
 
-3.learn how to use R markdown  
-   
-   ([Rmarkdown website](https://rmarkdown.rstudio.com/))
+3.learn how to use R markdown ([Rmarkdown website](https://rmarkdown.rstudio.com/))
 
 
 
