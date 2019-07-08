@@ -4,10 +4,12 @@
  
 姓名:謝秉峻
  
-學校系級:政大資管三
- 
+學校:國立政治大學
+
 學號:106306006
- 
+
+系級:資管三
+  
 ## week 1
 1. create a github account and download github desktop 
 2. install RStudio
